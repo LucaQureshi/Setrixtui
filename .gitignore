@@ -4,3 +4,4 @@ dist/
 .env
 *.pyc
 .pytest_cache/
+*.tmp
